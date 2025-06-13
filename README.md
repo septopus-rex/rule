@@ -13,3 +13,7 @@ Rule center for Septopus World.
 ## AI Q&A
 
 * AI that answers various questions in the Setopus World.
+
+## Deployment
+
+* [https://rule.septopus.xyz](https://rule.septopus.xyz) is the official entry.
